@@ -1,14 +1,126 @@
 apiVersion: v1
 entries:
   vault-autounseal:
-    - apiVersion: v2
-      appVersion: v1.0.1
-      created: "2025-05-14T05:28:10.4891299Z"
-      description: A Helm chart for Openbao at versa
-      digest: a8982790031c3e250e288baba5aa006cdc9a1e4600f1012c48bbe96d747fd3f0
-      name: vault-autounseal
-      type: application
-      urls:
-        - https://fluxcoding87.github.io/openbao-helm/vault-autounseal-0.5.3.tgz
-      version: 0.5.3
-generated: "2025-05-14T05:28:10.488279379Z"
+  - name: vault-autounseal
+    description: A Helm chart for Kubernetes
+    version: 0.5.3
+    created: 2025-04-08T04:37:43.182Z
+    appVersion: v1.0.1
+    digest: a8982790031c3e250e288baba5aa006cdc9a1e4600f1012c48bbe96d747fd3f0
+    urls:
+    - vault-autounseal-0.5.3.tgz
+  vcast:
+  - name: vcast
+    description: Vcast service
+    version: 0.2.1-840c98d104
+    created: 2025-02-04T05:04:38.898Z
+    appVersion: 0.2.1-840c98d104
+    digest: 9fa7fd413ad39ad182bf517221ff86240c0382d7f077831b91faef0bdd1e0231
+    urls:
+    - vcast-0.2.1-840c98d104.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.1.20-7c68f50105
+    created: 2025-02-05T10:42:50.688Z
+    appVersion: 0.1.20-7c68f50105
+    digest: 4c1235dc08f541da83d94f9bc454de2ab89f7faa659949999449f5039e152639
+    urls:
+    - vcast-0.1.20-7c68f50105.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.2.1-840c98d106
+    created: 2025-02-05T16:19:50.166Z
+    appVersion: 0.2.1-840c98d106
+    digest: 509043d460dc5da6d71655339624ee54d939ebae542c5cc09dc0d1ed698f5f4c
+    urls:
+    - vcast-0.2.1-840c98d106.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.2.1-b9d9f1a107
+    created: 2025-02-05T18:01:39.512Z
+    appVersion: 0.2.1-b9d9f1a107
+    digest: 84516fb340b9024f5f209f040eeba1277e1f2419947e663fa745baf7a95367ad
+    urls:
+    - vcast-0.2.1-b9d9f1a107.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.2.2
+    created: 2025-02-05T20:49:24.435Z
+    appVersion: 0.2.2
+    digest: a93dc6c09d947a808b2d568bbab4613dd6c7f2b9330a692109dbcb68cc3d0b7f
+    urls:
+    - vcast-0.2.2.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.3.0
+    created: 2025-02-15T02:45:36.276Z
+    appVersion: 0.3.0
+    digest: cbb6e12e5e457af4842f9b9d2cdc09a88ff2e05d16a8b460c4212f36b408ee19
+    urls:
+    - vcast-0.3.0.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.4.0
+    created: 2025-02-25T17:26:24.910Z
+    appVersion: 0.4.0
+    digest: 29dd28091ba6edf702da3ae993691d985cce73353527d96faef01979643371d7
+    urls:
+    - vcast-0.4.0.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.4.0-5b45dc5118
+    created: 2025-03-03T17:53:17.264Z
+    appVersion: 0.4.0-5b45dc5118
+    digest: 7d961939c9bb9371524e58391ae93ca42485282ad57b4578ed4efaa79f4cf0e1
+    urls:
+    - vcast-0.4.0-5b45dc5118.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.4.1
+    created: 2025-03-03T19:55:07.705Z
+    appVersion: 0.4.1
+    digest: 1312c6bf5fa9b82dd1d8a85697b7940b158fec0808bded37bc1948b4abb719a1
+    urls:
+    - vcast-0.4.1.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.4.1-5b45dc5118
+    created: 2025-04-18T05:30:56.218Z
+    appVersion: 0.4.1-5b45dc5118
+    digest: f9c64dd8dcc1ee4c49205d9e2d7c3c56e281842f0aedb4728ad9559efe78da75
+    urls:
+    - vcast-0.4.1-5b45dc5118.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.4.1-d706945128
+    created: 2025-04-24T05:17:05.523Z
+    appVersion: 0.4.1-d706945128
+    digest: 7747c9f334d5ec9f07d5e13e3c3debef3e5cf9470b3f1e5e79529e8e38b41bb6
+    urls:
+    - vcast-0.4.1-d706945128.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.4.1-d706945131
+    created: 2025-04-24T08:17:11.037Z
+    appVersion: 0.4.1-d706945131
+    digest: 3616b4ff7bcee137f7dff2d4f8a65d3b05738a3364d19cea6cc209e64457a432
+    urls:
+    - vcast-0.4.1-d706945131.tgz
+  - name: vcast
+    description: Vcast service
+    version: 0.4.1-d706945132
+    created: 2025-05-13T09:21:12.188Z
+    appVersion: 0.4.1-d706945132
+    digest: 9203a4dcc30b220c12b0857868be56d7979067c016df041c31e344d25693dafc
+    urls:
+    - vcast-0.4.1-d706945132.tgz
+  acme-parent-chart:
+  - name: acme-parent-chart
+    description: A Helm chart for Kubernetes
+    version: 0.1.0
+    created: 2025-02-26T09:53:25.216Z
+    appVersion: 0.1.0
+    digest: c3b82c642409e92c0e782f3850badf5a57705796cdc3105b04c40fefe6898b28
+    urls:
+    - acme-parent-chart-0.1.0.tgz
+generated: 2025-05-13T11:29:04.225Z

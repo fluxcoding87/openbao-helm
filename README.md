@@ -1,1 +1,0 @@
-# openbao-helm
