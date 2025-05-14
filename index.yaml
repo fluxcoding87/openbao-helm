@@ -8,7 +8,7 @@ entries:
     appVersion: v1.0.1
     digest: a8982790031c3e250e288baba5aa006cdc9a1e4600f1012c48bbe96d747fd3f0
     urls:
-    - vault-autounseal/vault-autounseal-0.5.3.tgz
+    - vault-autounseal-0.5.3.tgz
   vcast:
   - name: vcast
     description: Vcast service
